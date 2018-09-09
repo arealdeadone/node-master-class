@@ -1,1 +1,4 @@
 v8/
+set-proxy
+unset-all-proxies
+unset-https-proxy
